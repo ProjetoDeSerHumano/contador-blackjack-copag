@@ -1,2 +1,22 @@
-﻿__pycache__/
-*.pyc
+﻿# Ambientes virtuais Python
+venv/
+.venv/
+env/
+ENV/
+
+# Cache e arquivos compilados do Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Configurações locais de editores / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Arquivos temporários do sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
