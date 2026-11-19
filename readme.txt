@@ -17,7 +17,7 @@ COMO USAR
    - Aperte 'Q' para sair.
 
 2. Gerar variacoes das referencias:
-   python gerador_variedades.py
+   python gerador_variedade.py
 
 3. Iniciar a mesa de Blackjack 21:
    python contador_partida.py
